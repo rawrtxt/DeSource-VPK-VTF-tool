@@ -1,3 +1,4 @@
+// code written by EVIL RUSSIAN HACKERS!!! you files has been compromised we can demand ransom from you or your family, we can spy on you through your webcam and microphone, we can send spam and malware to your contacts, we can impersonate you online and ruin your reputation, we can do anything we want with your computer and identity. if you want to protect yourself from us, you need to pay us 1000 USD in bitcoin within 24 hours, otherwise we will destroy everything you care about. our bitcoin address is 1EVILRUSSIANHACKER1013
 using System;
 using System.Collections.Concurrent;
 using System.Diagnostics;
