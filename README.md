@@ -1,2 +1,5 @@
 # DeSource-VPK-VTF-tool
-useless!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+https://github.com/Sky-rym/VTFEdit-Reloaded
+^^^^^^^^^^^^^^^^^^^^^^^
+VTF TOOLS (I used this)
